@@ -2,6 +2,9 @@
 
 This is an example project to use [Flask](https://flask.palletsprojects.com) for web backend and API service.
 
+## Warning
+This is an example project. Using this project in production is not recommended. Should be added more security mechanisms like verifying e-mail when signing up.
+
 ## To Run
 
 You must installed Flask before via Python's pip or manually.
