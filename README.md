@@ -5,6 +5,9 @@ This is an example project to use [Flask](https://flask.palletsprojects.com) for
 ## Warning
 This is an example project. Using this project in production is not recommended. Should be added more security mechanisms like verifying e-mail when signing up.
 
+## Free Hosting
+You can get a free [PythonAnyWhere](https://pythonanywhere.com) account. Then you can upload and test your Python web projects in there.
+
 ## To Run
 
 You must installed Flask before via Python's pip or manually.
