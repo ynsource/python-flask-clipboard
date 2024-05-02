@@ -1,4 +1,4 @@
-# Python Flask Clipboard (Web and API Project)
+# Clipboard (Web and API Project) with Python/Flask
 
 This is an example project to use [Flask](https://flask.palletsprojects.com) for web backend and API service.
 

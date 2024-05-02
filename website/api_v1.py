@@ -13,7 +13,8 @@ bp.register_blueprint(api.v1.clipboard.bp)
 @bp.get("/")
 def api_summary():
     return {
-        "name": "Flask Project",
-        "summary": "This is an example API project",
+        "name": "Clipboard - YNSource",
+        "summary": "This is an example API with Python/Flask",
         "version": "1.0.0"
     }
+
